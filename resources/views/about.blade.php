@@ -79,12 +79,12 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel Mirna
+                    About
                 </div>
 
-                <div class="links">
-                    <a href="pesan">Pesan</a>
-                    <a href="about">About</a>
+                <div>
+                    <p> Halaman ini tentang about</p>
+					<a href="/">Home</a>
                     
                 </div>
             </div>
